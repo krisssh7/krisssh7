@@ -1,10 +1,10 @@
-Hey there! I'm Krishnendu Pramanik <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
+<h1>Hey there! I'm Krishnendu Pramanik <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+_________________________________________________________________________________________________________________________________________________
 🎓 MCA Student at Dr. B.C. Roy Engineering College, Durgapur (West Bengal)
 
 💻 Web Developer | MERN Stack Enthusiast | DSA Learner (Java)
 
-🚀 About Me
+<h3>🚀 About Me</h3>
 
 🌐 Passionate about crafting clean, responsive, and functional web apps
 
