@@ -25,8 +25,11 @@
 <h3><u>🛠️ Tech Stack</u></h3>
 
 💻 Languages: Java, JavaScript, HTML, CSS
+
 🧩 Frameworks/Libraries: React, Node.js, Express.js
+
 🗄️ Database: MongoDB
+
 ⚙️ Tools: Git, GitHub, VS Code
 
 <h3><u>🌱 Goals</u></h3>
